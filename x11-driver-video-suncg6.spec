@@ -13,7 +13,7 @@ BuildRequires: x11-util-macros >= 1.0.1
 Conflicts: xorg-x11-server < 7.0
 
 %description
-The X.org driver for sun cg6 Cards.
+x11-driver-video-suncg6 is the X.org driver for sun cg6 Cards.
 
 %prep
 %setup -q -n xf86-video-suncg6-%{version}
