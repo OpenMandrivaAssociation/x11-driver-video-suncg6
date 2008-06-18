@@ -1,6 +1,6 @@
 Name: x11-driver-video-suncg6
 Version: 1.1.0
-Release: %mkrel 4
+Release: %mkrel 5
 Summary: X.org driver for sun cg6 Cards
 Group: System/X11
 URL: http://xorg.freedesktop.org
