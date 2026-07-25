@@ -1,7 +1,7 @@
 ExclusiveArch:  sparc sparc64
 Name: x11-driver-video-suncg6
 Version: 1.1.1
-Release: %mkrel 1
+Release: 2
 Summary: X.org driver for sun cg6 Cards
 Group: System/X11
 URL: https://xorg.freedesktop.org
